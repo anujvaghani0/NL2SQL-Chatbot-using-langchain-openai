@@ -1,0 +1,10 @@
+openai
+plotly
+pandas
+numpy
+langchain
+pymysql
+chromadb
+langchain_openai
+langchain_community
+streamlit
